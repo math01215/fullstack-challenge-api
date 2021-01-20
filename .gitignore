@@ -1,0 +1,7 @@
+.vscode
+venv
+*.pyc
+staticfiles
+.env
+.idea
+.DS_Store
